@@ -2,6 +2,8 @@
 
 A fast, private, browser-based tool for removing duplicate lines from pasted text.
 
+Built by [Ethereal Studios](https://builtbyethereal.com/).
+
 ## Features
 
 - Removes repeated lines instantly in the browser
